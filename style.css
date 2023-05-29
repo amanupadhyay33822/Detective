@@ -1,0 +1,32 @@
+.dark-mode {
+    background-color: #011028f1;
+    color:white;
+   
+    /* opacity: 0; */
+}
+.dark-mode .container{
+    background-color:#1E2A47;
+  
+}
+.dark-mode .input{
+    background-color:#1E2A47;
+   
+}
+.dark-mode .input:-webkit-full-screen{
+    background-color:#1E2A47;
+   
+}
+.dark-mode .description{
+    color:white
+}
+.dark-mode .heading{
+    color:white
+}
+.dark-mode .Dark{
+    color:white
+}
+.dark-mode #userName::placeholder{
+   color:white
+}
+
+
